@@ -1,0 +1,59 @@
+MsiExec.exe Information: 0 : FreeTranslatorInstall initialized at 07/28/2019 16:14:32, Win ver = 6.3.9600.0, Crt dir: 'C:\Windows\SysWOW64', CLR version =v4.0.30319, Is64BitProcess = False, Is64BitOperatingSystem = True
+MsiExec.exe Information: 0 : FreeTranslatorInstall_BeforeInstall: sender WebUtils.FreeTranslatorInstall, InstallEventArgs System.Configuration.Install.InstallEventArgs
+MsiExec.exe Information: 0 : FreeTranslatorInstall_AfterInstall: sender WebUtils.FreeTranslatorInstall, InstallEventArgs System.Configuration.Install.InstallEventArgs
+MsiExec.exe Information: 0 : FreeTranslatorInstall initialized at 07/28/2019 16:14:34, Win ver = 6.3.9600.0, Crt dir: 'C:\Windows\SysWOW64', CLR version =v4.0.30319, Is64BitProcess = False, Is64BitOperatingSystem = True
+MsiExec.exe Information: 0 : FreeTranslatorInstall_Committing: sender WebUtils.FreeTranslatorInstall, InstallEventArgs System.Configuration.Install.InstallEventArgs
+MsiExec.exe Information: 0 : FreeTranslatorInstall_Committed: sender WebUtils.FreeTranslatorInstall, InstallEventArgs System.Configuration.Install.InstallEventArgs
+MsiExec.exe Information: 0 : In CREATE MEF Parts the path is  C:\Program Files (x86)\FreeLanguageTranslator 3.9
+MsiExec.exe Information: 0 : FreeTranslatorInstall Disposed at 07/28/2019 16:14:36, 
+MsiExec.exe Information: 0 : info.FileExtension ='*.avi; *.mkv; *.mp4; *.divx; *.mov; *.mp4v; *.mpeg; *.ogv; *.wmv' defaultSelection = FreeLanguageTranslatorMenuEntry
+MsiExec.exe Information: 0 : Will Update the key value for '.avi' app type as WMP11.AssocFile.AVI.avi
+MsiExec.exe Information: 0 : Setting command for 'FreeLanguageTranslatorMenuEntry' 
+MsiExec.exe Information: 0 : Will Update the key value for '.mkv' app type as WMP11.AssocFile.MKV.mkv
+MsiExec.exe Information: 0 : Setting command for 'FreeLanguageTranslatorMenuEntry' 
+MsiExec.exe Information: 0 : Will Update the key value for '.mp4' app type as WMP11.AssocFile.MP4.mp4
+MsiExec.exe Information: 0 : Setting command for 'FreeLanguageTranslatorMenuEntry' 
+MsiExec.exe Information: 0 : Set existing key for'.divx' 
+MsiExec.exe Information: 0 : Creates new key value for '.divx' app type as FreeLanguageTranslator.divx
+MsiExec.exe Information: 0 : Setting open and command for '"C:\Program Files (x86)\FreeLanguageTranslator 3.9\FreeLanguageTranslator.exe" "%1"' 
+MsiExec.exe Information: 0 : Setting command for 'FreeLanguageTranslatorMenuEntry' 
+MsiExec.exe Information: 0 : Will Update the key value for '.mov' app type as WMP11.AssocFile.MOV.mov
+MsiExec.exe Information: 0 : Setting command for 'FreeLanguageTranslatorMenuEntry' 
+MsiExec.exe Information: 0 : Will Update the key value for '.mp4v' app type as WMP11.AssocFile.MP4.mp4v
+MsiExec.exe Information: 0 : Setting command for 'FreeLanguageTranslatorMenuEntry' 
+MsiExec.exe Information: 0 : Will Update the key value for '.mpeg' app type as WMP11.AssocFile.MPEG.mpeg
+MsiExec.exe Information: 0 : Setting command for 'FreeLanguageTranslatorMenuEntry' 
+MsiExec.exe Information: 0 : Will Update the key value for '.ogv' app type as VLC.ogv.ogv
+MsiExec.exe Information: 0 : Setting command for 'FreeLanguageTranslatorMenuEntry' 
+MsiExec.exe Information: 0 : Will Update the key value for '.wmv' app type as WMP11.AssocFile.WMV.wmv
+MsiExec.exe Information: 0 : Setting command for 'FreeLanguageTranslatorMenuEntry' 
+MsiExec.exe Information: 0 : info.FileExtension ='*.srt' defaultSelection = FreeLanguageTranslatorMenuEntry
+MsiExec.exe Information: 0 : Set existing key for'.srt' 
+MsiExec.exe Information: 0 : Creates new key value for '.srt' app type as SubTitleConvertors.srt
+MsiExec.exe Information: 0 : Setting open and command for '"C:\Program Files (x86)\FreeLanguageTranslator 3.9\FreeLanguageTranslator.exe" "%1"' 
+MsiExec.exe Information: 0 : Setting command for 'FreeLanguageTranslatorMenuEntry' 
+MsiExec.exe Information: 0 : info.FileExtension ='*.sub' defaultSelection = FreeLanguageTranslatorMenuEntry
+MsiExec.exe Information: 0 : Set existing key for'.sub' 
+MsiExec.exe Information: 0 : Creates new key value for '.sub' app type as SubTitleConvertors.sub
+MsiExec.exe Information: 0 : Setting open and command for '"C:\Program Files (x86)\FreeLanguageTranslator 3.9\FreeLanguageTranslator.exe" "%1"' 
+MsiExec.exe Information: 0 : Setting command for 'FreeLanguageTranslatorMenuEntry' 
+MsiExec.exe Information: 0 : info.FileExtension ='*.pdf' defaultSelection = FreeLanguageTranslatorMenuEntry
+MsiExec.exe Information: 0 : Will Update the key value for '.pdf' app type as AcroExch.Document.DC.pdf
+MsiExec.exe Information: 0 : Setting command for 'FreeLanguageTranslatorMenuEntry' 
+MsiExec.exe Information: 0 : info.FileExtension ='*.txt' defaultSelection = FreeLanguageTranslatorMenuEntry
+MsiExec.exe Information: 0 : Will Update the key value for '.txt' app type as txtfile.txt
+MsiExec.exe Information: 0 : Setting command for 'FreeLanguageTranslatorMenuEntry' 
+MsiExec.exe Information: 0 : info.FileExtension ='*.doc; *.docx' defaultSelection = FreeLanguageTranslatorMenuEntry
+MsiExec.exe Information: 0 : Will Update the key value for '.doc' app type as Word.Document.8.doc
+MsiExec.exe Information: 0 : Setting command for 'FreeLanguageTranslatorMenuEntry' 
+MsiExec.exe Information: 0 : Will Update the key value for '.docx' app type as Word.Document.12.docx
+MsiExec.exe Information: 0 : Setting command for 'FreeLanguageTranslatorMenuEntry' 
+MsiExec.exe Information: 0 : info.FileExtension ='*.Html; *.htm' defaultSelection = FreeLanguageTranslatorMenuEntry
+MsiExec.exe Information: 0 : Will Update the key value for '.Html' app type as htmlfile.Html
+MsiExec.exe Information: 0 : Setting command for 'FreeLanguageTranslatorMenuEntry' 
+MsiExec.exe Information: 0 : Will Update the key value for '.htm' app type as htmlfile.htm
+MsiExec.exe Information: 0 : Setting command for 'FreeLanguageTranslatorMenuEntry' 
+MsiExec.exe Information: 0 : info.FileExtension ='*.rtf' defaultSelection = FreeLanguageTranslatorMenuEntry
+MsiExec.exe Information: 0 : Will Update the key value for '.rtf' app type as Word.RTF.8.rtf
+MsiExec.exe Information: 0 : Setting command for 'FreeLanguageTranslatorMenuEntry' 
+MsiExec.exe Information: 0 : Installed 8 extentsions
